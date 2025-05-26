@@ -8,54 +8,52 @@ I'm a third-year **Computer Science bachelor's student at UPC FIB**. My current 
 
 -----
 
-### My Tech Skills
+### Technical Skills
+<div style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+    <h4 align="center">Core Programming</h4>
+    <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" title="C" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" title="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="28" title="Haskell" />
+    </div>
+    <hr style="border-color: #30363d; margin: 10px 0;">
+  </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; margin-top: 20px;">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+    <h4 align="center">Data Science</h4>
+    <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="28" title="R" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="28" title="Jupyter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="28" title="PyCharm" />
+    </div>
+    <hr style="border-color: #30363d; margin: 10px 0;">
+  </div>
 
-<!-- Column 1: Languages -->
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-<h4 align="center">🧠 Languages</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="30" title="Haskell"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" title="R"/>
-</div>
-</div>
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+    <h4 align="center">Databases</h4>
+    <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" title="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28" title="Oracle" />
+    </div>
+    <hr style="border-color: #30363d; margin: 10px 0;">
+  </div>
 
-<!-- Column 2: Data -->
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-<h4 align="center">📊 Data</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" title="Jupyter"/>
-</div>
-</div>
-
-<!-- Column 3: Tools -->
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-<h4 align="center">🔧 Tools</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VSCode"/>
-</div>
-</div>
-
-<!-- Column 4: Web/Other -->
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-<h4 align="center">🌐 Web</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" title="Flask"/>
-</div>
-</div>
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+    <h4 align="center">Tools & Environments</h4>
+    <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" title="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" title="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="28" title="IntelliJ IDEA" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" title="Bash" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="28" title="LaTeX" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="28" title="Markdown" />
+    </div>
+    <hr style="border-color: #30363d; margin: 10px 0;">
+  </div>
 
 </div>
