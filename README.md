@@ -2,12 +2,18 @@
 
 Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'DO. OR DO NOT. THERE IS NO TRY.'** So grab your lightsaber (or keyboard), explore my repos, and let's **power up the data-verse\!**
 
+![starwars](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdqdHc2OGVkZzZqOGQ5MXc0Y3dvMjFlMjVqYWhqYTdwMGM5N3N5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPp7uWLgTdU83iU/giphy.gif)
+
 -----
 
 ### About Me
 
-I'm a third-year **Computer Science bachelor's student at UPC FIB**. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas. Fun fact: Next year, I'm planning to go to **Poland for my Erasmus\!🇵🇱** and I enjoy Ghibli Studio Movies a lot! My favourite signer is SZA.
-![]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VoMndibHF5em1jcGc4M256ZTM5d3MwaWExYTYxZTZmcnR4dDkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pcyX46R8BixbB3OtGL/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ6bDU0a3Nvc25hcW53dGR3N3NuMGhxdDY2cm03NzlzYXl5YjV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SSFuh2v8zQZGibJKn0/giphy.gif))
+I'm a third-year **Computer Science** bachelor's student at UPC FIB. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas.
+Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA**, and my favourite movie is **Moulin Rouge**.
+
+
+![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ6bDU0a3Nvc25hcW53dGR3N3NuMGhxdDY2cm03NzlzYXl5YjV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SSFuh2v8zQZGibJKn0/giphy.gif)
+
 
 -----
 
