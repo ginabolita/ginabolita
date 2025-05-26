@@ -5,6 +5,10 @@ Forget 'trying' to code; here, we **do**. As the greatest teacher once said, **'
 ### About Me
 
 I'm a third-year **Computer Science bachelor's student at UPC FIB**. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas. Fun fact: Next year, I'm planning to go to **Poland for my Erasmus\!**
+I enjoy Ghibli Studio Movies a lot!
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGttb3g3M3VkNWV4ZThscnM4aTQ4cTFtcmM4ZWd5emZzbnpseDAxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif" alt="Animated GIF" style="max-width: 100%; height: auto;">
+</div>
 
 -----
 
