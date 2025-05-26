@@ -1,14 +1,13 @@
+# ginabolita's Portfolio
+
 Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'DO. OR DO NOT. THERE IS NO TRY.'** So grab your lightsaber (or keyboard), explore my repos, and let's **power up the data-verse\!**
 
 -----
 
 ### About Me
 
-I'm a third-year **Computer Science bachelor's student at UPC FIB**. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas. Fun fact: Next year, I'm planning to go to **Poland for my Erasmus\!**
-I enjoy Ghibli Studio Movies a lot!
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGttb3g3M3VkNWV4ZThscnM4aTQ4cTFtcmM4ZWd5emZzbnpseDAxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif" alt="Animated GIF" style="max-width: 100%; height: auto;">
-</div>
+I'm a third-year **Computer Science bachelor's student at UPC FIB**. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas. Fun fact: Next year, I'm planning to go to **Poland for my Erasmus\!🇵🇱** and I enjoy Ghibli Studio Movies a lot! My favourite signer is SZA.
+![]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VoMndibHF5em1jcGc4M256ZTM5d3MwaWExYTYxZTZmcnR4dDkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pcyX46R8BixbB3OtGL/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ6bDU0a3Nvc25hcW53dGR3N3NuMGhxdDY2cm03NzlzYXl5YjV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SSFuh2v8zQZGibJKn0/giphy.gif))
 
 -----
 
@@ -17,10 +16,10 @@ I enjoy Ghibli Studio Movies a lot!
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
     <h4 align="center">Core Programming</h4>
     <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" title="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="Java" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" title="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" title="C" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="Java" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="28" title="Haskell" />
     </div>
     <hr style="border-color: #30363d; margin: 10px 0;">
