@@ -1,4 +1,4 @@
-Forget 'trying' to code; here, we **do**. As the greatest teacher once said, **'Do. Or do not. There is no try.'** So grab your lightsaber (or keyboard), explore my repos, and let's **power up the data-verse\!**
+Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'DO. OR DO NOT. THERE IS NO TRY.'** So grab your lightsaber (or keyboard), explore my repos, and let's **power up the data-verse\!**
 
 -----
 
