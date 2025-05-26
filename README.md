@@ -1,4 +1,4 @@
-# ginabolita's Portfolio
+# ────୨ৎ──── ginabolita's Portfolio ────୨ৎ────
 
 Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'DO. OR DO NOT. THERE IS NO TRY.'** So grab your lightsaber (or keyboard), explore my repos, and let's **power up the data-verse\!**
 
@@ -6,7 +6,7 @@ Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'
 
 -----
 
-### About Me
+### ─── ⋆⋅☆⋅⋆ ── About Me ─── ⋆⋅☆⋅⋆ ── ────୨ৎ────
 
 I'm a third-year **Computer Science** bachelor's student at UPC FIB. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas.
 Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA**, and my favourite movie is **Moulin Rouge**.
@@ -17,7 +17,7 @@ Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA*
 
 -----
 
-### Technical Skills
+### •---------• Technical Skills •---------•
 <div style="display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
     <h4 align="center">Core Programming</h4>
