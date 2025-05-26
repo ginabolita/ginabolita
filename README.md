@@ -13,6 +13,7 @@ Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA*
 
 ![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ6bDU0a3Nvc25hcW53dGR3N3NuMGhxdDY2cm03NzlzYXl5YjV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SSFuh2v8zQZGibJKn0/giphy.gif)
 
+Shoutout to my talented friend [@cloud.sith](https://www.instagram.com/cloud.sith) for the cool profile pic! ❣
 
 -----
 
@@ -63,5 +64,3 @@ Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA*
     </div>
     <hr style="border-color: #30363d; margin: 10px 0;">
   </div>
-
-</div>
