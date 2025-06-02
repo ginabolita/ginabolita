@@ -4,11 +4,15 @@ Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'
 
 ![starwars](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdqdHc2OGVkZzZqOGQ5MXc0Y3dvMjFlMjVqYWhqYTdwMGM5N3N5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPp7uWLgTdU83iU/giphy.gif)
 
+### ── ✩ ── ⋅ ⋅ Contact With Me ⋅ ⋅ ── ✩ ──
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gina-escofet-gonzalez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginaescofet8@gmail.com)
+
 -----
 
 ### ─── ⋆⋅☆⋅⋆ ── About Me ─── ⋆⋅☆⋅⋆ ──
 I'm a third-year **Computer Science** bachelor's student at UPC FIB. My current interests lie in **machine learning, data science, and AI**, and I'm keen to further develop my expertise in these areas.
-Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA**, and my favourite movie is **Moulin Rouge**.
+Fun facts: I enjoy **Studio Ghibli** movies a lot! My favourite singer is **SZA**, and my favourite movie is **Moulin Rouge**. And I recently obtained my driver's license!!!
 
 
 ![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ6bDU0a3Nvc25hcW53dGR3N3NuMGhxdDY2cm03NzlzYXl5YjV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SSFuh2v8zQZGibJKn0/giphy.gif)
