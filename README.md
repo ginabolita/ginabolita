@@ -4,7 +4,7 @@ Forget 'trying' to code, here, we **DO**. As the greatest teacher once said, **'
 
 ![starwars](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdqdHc2OGVkZzZqOGQ5MXc0Y3dvMjFlMjVqYWhqYTdwMGM5N3N5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPp7uWLgTdU83iU/giphy.gif)
 
-### ── ✩ ── ⋅ ⋅ Contact With Me ⋅ ⋅ ── ✩ ──
+### ── ✩ ── ⋅ ⋅ Contact Me ⋅ ⋅ ── ✩ ──
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gina-escofet-gonzalez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ginaescofet8@gmail.com)
 
